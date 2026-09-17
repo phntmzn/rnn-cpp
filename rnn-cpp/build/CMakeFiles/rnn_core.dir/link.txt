@@ -1,0 +1,2 @@
+/usr/bin/ar qc librnn_core.a CMakeFiles/rnn_core.dir/src/activations.cpp.o CMakeFiles/rnn_core.dir/src/matrix.cpp.o CMakeFiles/rnn_core.dir/src/rnn.cpp.o
+/usr/bin/ranlib librnn_core.a

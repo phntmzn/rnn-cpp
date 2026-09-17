@@ -1,0 +1,4 @@
+/Users/x86/Desktop/rnn-cpp/build/CMakeFiles/rnn_core.dir
+/Users/x86/Desktop/rnn-cpp/build/CMakeFiles/rnn_demo.dir
+/Users/x86/Desktop/rnn-cpp/build/CMakeFiles/edit_cache.dir
+/Users/x86/Desktop/rnn-cpp/build/CMakeFiles/rebuild_cache.dir
